@@ -1,5 +1,5 @@
-# Name: Abdul Muizz
-# Gmail: abdulmuizzfayyaz@gmail.com
+# Name: Abdul Haseeb Tehseen
+# Gmail: haseebtehsin97@gmail.com
 #----------------------------------#
 
 # A classic snake game crafted with help of pygame in Python
